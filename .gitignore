@@ -65,7 +65,7 @@ instance/
 staticfiles/
 
 # ---- Local configs ----
-config/
+# config/
 local_settings.py
 
 # ---- Misc ----
